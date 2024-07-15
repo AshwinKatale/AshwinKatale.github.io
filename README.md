@@ -1,2 +1,1 @@
-# Portfolio
-Ashwin Katale Portfolio
+# AshwinKatale.github.io
